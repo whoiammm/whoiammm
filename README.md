@@ -1,8 +1,8 @@
 # Hi, I'm Max
 
-<a href="https://github.com/haydenbanz"><img  src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=300&size=28&duration=4000&pause=100&color=C109F7&center=true&vCenter=true&width=580&height=127&lines=I'm+a+programmer;I'm+an+AI+enthusiast;I'm+a+big+fan+of+Neural+Networks;I'm+interested+in+Computer+Science;I+love+Cybersecurity;By+the+way+I+use+Arch+%F0%9F%92%80"></a>
-
-
+<a href="https://github.com/whoiammm">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=28&duration=4000&pause=1000&color=C109F7&center=true&vCenter=true&width=800&height=70&lines=Fullstack+Developer+%26+IT+Specialist;Building+scalable+web+applications;Enthusiastic+about+AI+%26+Neural+Networks;Linux+Power+User+%26+Cybersecurity+Hobbyist" alt="Typing SVG" />
+</a>
 
 <p align="center">
   <a href="https://github.com/whoiammm"><img alt="Profile" src="https://img.shields.io/badge/GitHub-whoiammm-0b0f14?style=for-the-badge&logo=github"></a>
