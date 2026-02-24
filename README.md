@@ -1,41 +1,66 @@
 # Hi, I'm Max
 
-<a href="https://github.com/whoiammm">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=28&duration=4000&pause=1000&color=C109F7&center=true&vCenter=true&width=800&height=70&lines=Fullstack+Developer+%26+IT+Specialist;Building+scalable+web+applications;Enthusiastic+about+AI+%26+Neural+Networks;Linux+Power+User+%26+Cybersecurity+Hobbyist" alt="Typing SVG" />
-</a>
-
 <p align="center">
-  <b>Fullstack Developer based in Dushanbe, Tajikistan 🇹🇯</b><br/>
-  <i>Passionate about building modern web applications and exploring AI technologies.</i>
+  <a href="https://github.com/whoiammm">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=300&size=28&duration=4000&pause=100&color=C109F7&center=true&vCenter=true&width=650&height=80&lines=I'm+an+IT+specialist+from+Dushanbe;I'm+into+Linux+and+Arch+btw+💀;I'm+an+AI+and+Neural+Networks+enthusiast;I+love+Cybersecurity+and+CTFs;I+enjoy+Computer+Science+and+CS+theory" />
+  </a>
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/whoiammm"><img alt="Profile" src="https://img.shields.io/badge/GitHub-whoiammm-0b0f14?style=for-the-badge&logo=github"></a>
+  <img alt="Location" src="https://img.shields.io/badge/Dushanbe-TJ-0b0f14?style=for-the-badge&logo=googlemaps&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-0b0f14?style=for-the-badge&logo=linux&logoColor=white">
+  <img alt="Arch" src="https://img.shields.io/badge/Arch-0b0f14?style=for-the-badge&logo=archlinux&logoColor=white">
+</p>
 
-### 👨‍💻 About Me
+<p align="center">
+  I build reliable systems, automate routine work, and learn by doing: labs, CTFs, and experiments with AI.
+</p>
 
-I am a Fullstack Developer with a strong background in IT systems. I love creating efficient, scalable web solutions and have a deep interest in the intersection of web development and Artificial Intelligence.
+### About
+- IT specialist based in Dushanbe
+- Linux-first mindset (daily driver: Arch; also comfortable with Ubuntu/Debian-based servers)
+- Interests: cybersecurity, CTFs, networking fundamentals, OS internals, CS theory
+- Curious about AI and neural networks (from concepts to practical tooling)
 
-- 🔭 **Currently working on:** Fullstack web applications and AI integration
-- 🌱 **Learning:** Advanced Neural Networks and Deep Learning architectures
-- 🐧 **OS Preference:** I use **Arch Linux** for development (btw)
+### Focus areas
+- Linux administration: system setup, troubleshooting, performance basics, services
+- Automation: scripting for repeatable tasks, config hygiene, dotfiles approach
+- Security practice: CTF workflows, basic pentest tooling, secure-by-default habits
+- Computer science: algorithms, data structures, fundamentals that transfer across stacks
 
----
+### Toolbox
+- OS: Arch Linux, Ubuntu/Debian
+- CLI: bash/zsh, coreutils, ssh, tmux
+- DevOps basics: Git, Docker (as needed), CI awareness
+- Security: common recon/debug utilities, packet inspection mindset, safe testing environments
 
-### 🛠️ Technical Stack
+### Featured work
+- Pinned repositories: check below (I keep the most relevant projects pinned)
+- Notes & labs: small experiments I can reproduce and improve over time
+- System configs: dotfiles and machine setup patterns (when public)
 
-<div align="center">
+### GitHub stats
+<p align="center">
+  <a href="https://github.com/whoiammm">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=whoiammm&show_icons=true&hide_title=true&theme=transparent&rank_icon=github" />
+  </a>
+  <a href="https://github.com/whoiammm">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoiammm&layout=compact&theme=transparent" />
+  </a>
+</p>
 
-| **Frontend** | **Backend** | **Tools & DevOps** |
-| :---: | :---: | :---: |
-| React / Next.js | Python (Django/FastAPI) | Docker / VirtualBox |
-| JavaScript / TypeScript | Node.js | Git / GitHub Actions |
-| HTML5 / CSS3 | Linux (Arch/Ubuntu) |
+<p align="center">
+  <a href="https://github.com/whoiammm">
+    <img src="https://streak-stats.demolab.com?user=whoiammm&theme=transparent&hide_border=true" />
+  </a>
+</p>
 
-</div>
+### Contact
+- GitHub: https://github.com/whoiammm
+- Email: your.email@example.com
 
----
-
-### 📫 Connect with Me
-
-- 💼 **Telegram:** [t.me/max_halimov](https://t.me/max_halimov)
-- 📧 **Email:** mahmadali_h@icloud.com
+### Principles
+- Build simple, document decisions, and automate the boring parts
+- Prefer reproducible setups (scripts, configs, versioned notes)
+- Keep learning: theory + practice + real-world constraints
