@@ -1,8 +1,7 @@
 # Hi, I'm Max
 
-  <a align="center" href="https://github.com/whoiammm">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=300&size=28&duration=4000&pause=100&color=C109F7&center=true&vCenter=true&width=650&height=80&lines=I'm+an+IT+specialist+from+Dushanbe;I'm+into+Linux+and+Arch+btw+💀;I'm+an+AI+and+Neural+Networks+enthusiast;I+love+Cybersecurity+and+CTFs;I+enjoy+Computer+Science+and+CS+theory" />
-  </a>
+<a href="https://github.com/haydenbanz"><img  src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=300&size=28&duration=4000&pause=100&color=C109F7&center=true&vCenter=true&width=580&height=127&lines=I'm+a+programmer;I'm+an+AI+enthusiast;I'm+a+big+fan+of+Neural+Networks;I'm+interested+in+Computer+Science;I+love+Cybersecurity;By+the+way+I+use+Arch+%F0%9F%92%80"></a>
+
 
 
 <p align="center">
