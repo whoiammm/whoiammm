@@ -1,10 +1,9 @@
 # Hi, I'm Max
 
-<p align="center">
-  <a href="https://github.com/whoiammm">
+  <a align="center" href="https://github.com/whoiammm">
     <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=300&size=28&duration=4000&pause=100&color=C109F7&center=true&vCenter=true&width=650&height=80&lines=I'm+an+IT+specialist+from+Dushanbe;I'm+into+Linux+and+Arch+btw+💀;I'm+an+AI+and+Neural+Networks+enthusiast;I+love+Cybersecurity+and+CTFs;I+enjoy+Computer+Science+and+CS+theory" />
   </a>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/whoiammm"><img alt="Profile" src="https://img.shields.io/badge/GitHub-whoiammm-0b0f14?style=for-the-badge&logo=github"></a>
